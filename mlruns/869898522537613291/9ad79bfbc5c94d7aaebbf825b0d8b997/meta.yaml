@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/irems-pc/Desktop/codinggg/big-data/credit-card-fraud-detection/mlruns/869898522537613291/9ad79bfbc5c94d7aaebbf825b0d8b997/artifacts
+end_time: 1739831217411
+entry_point_name: ''
+experiment_id: '869898522537613291'
+lifecycle_stage: active
+run_id: 9ad79bfbc5c94d7aaebbf825b0d8b997
+run_name: wise-mink-692
+run_uuid: 9ad79bfbc5c94d7aaebbf825b0d8b997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739831209967
+status: 3
+tags: []
+user_id: irems-pc

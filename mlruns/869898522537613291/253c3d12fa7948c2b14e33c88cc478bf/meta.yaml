@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/irems-pc/Desktop/codinggg/big-data/credit-card-fraud-detection/mlruns/869898522537613291/253c3d12fa7948c2b14e33c88cc478bf/artifacts
+end_time: 1739831538872
+entry_point_name: ''
+experiment_id: '869898522537613291'
+lifecycle_stage: active
+run_id: 253c3d12fa7948c2b14e33c88cc478bf
+run_name: clean-hen-434
+run_uuid: 253c3d12fa7948c2b14e33c88cc478bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739831538863
+status: 4
+tags: []
+user_id: irems-pc

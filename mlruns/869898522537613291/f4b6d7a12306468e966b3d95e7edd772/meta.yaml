@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/irems-pc/Desktop/codinggg/big-data/credit-card-fraud-detection/mlruns/869898522537613291/f4b6d7a12306468e966b3d95e7edd772/artifacts
+end_time: 1739831552616
+entry_point_name: ''
+experiment_id: '869898522537613291'
+lifecycle_stage: active
+run_id: f4b6d7a12306468e966b3d95e7edd772
+run_name: smiling-elk-571
+run_uuid: f4b6d7a12306468e966b3d95e7edd772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739831552608
+status: 4
+tags: []
+user_id: irems-pc

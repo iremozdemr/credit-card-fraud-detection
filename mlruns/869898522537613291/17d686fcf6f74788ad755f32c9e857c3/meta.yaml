@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/irems-pc/Desktop/codinggg/big-data/credit-card-fraud-detection/mlruns/869898522537613291/17d686fcf6f74788ad755f32c9e857c3/artifacts
+deleted_time: 1739830554723
+end_time: 1739830377452
+entry_point_name: ''
+experiment_id: '869898522537613291'
+lifecycle_stage: deleted
+run_id: 17d686fcf6f74788ad755f32c9e857c3
+run_name: overjoyed-auk-12
+run_uuid: 17d686fcf6f74788ad755f32c9e857c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739830353369
+status: 3
+tags: []
+user_id: irems-pc
