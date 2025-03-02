@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/irems-pc/Desktop/codinggg/big-data/credit-card-fraud-detection/mlruns/856989320451142091/f6a13b03e4d74d8788242c1281a062aa/artifacts
+end_time: 1740924374379
+entry_point_name: ''
+experiment_id: '856989320451142091'
+lifecycle_stage: active
+run_id: f6a13b03e4d74d8788242c1281a062aa
+run_name: agreeable-donkey-699
+run_uuid: f6a13b03e4d74d8788242c1281a062aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740924115056
+status: 3
+tags: []
+user_id: irems-pc

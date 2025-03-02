@@ -1,0 +1,19 @@
+artifact_path: random_forest_model
+flavors:
+  python_function:
+    data: sparkml
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.spark
+    python_version: 3.12.4
+  spark:
+    code: null
+    model_class: pyspark.ml.pipeline.PipelineModel
+    model_data: sparkml
+    pyspark_version: 3.5.4
+mlflow_version: 2.17.0
+model_size_bytes: 45494
+model_uuid: 6ed0abd856a2434494ef4a486994d80a
+run_id: a2572923b21249a3a0211275643d83b3
+utc_time_created: '2025-03-02 14:08:11.963183'

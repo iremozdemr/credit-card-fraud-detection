@@ -1,6 +1,6 @@
-artifact_location: file:///Users/irems-pc/Desktop/codinggg/big-data/credit-card-fraud-detection/mlruns/0
-creation_time: 1739830353296
+artifact_location: mlflow-artifacts:/0
+creation_time: 1740922306282
 experiment_id: '0'
-last_update_time: 1739830353296
+last_update_time: 1740922306282
 lifecycle_stage: active
 name: Default
