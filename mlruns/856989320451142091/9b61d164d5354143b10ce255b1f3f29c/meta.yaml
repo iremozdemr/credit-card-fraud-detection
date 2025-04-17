@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/irems-pc/Desktop/codinggg/big-data/credit-card-fraud-detection/mlruns/856989320451142091/9b61d164d5354143b10ce255b1f3f29c/artifacts
+end_time: 1744914977251
+entry_point_name: ''
+experiment_id: '856989320451142091'
+lifecycle_stage: active
+run_id: 9b61d164d5354143b10ce255b1f3f29c
+run_name: chill-squirrel-668
+run_uuid: 9b61d164d5354143b10ce255b1f3f29c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744914939928
+status: 3
+tags: []
+user_id: irems-pc

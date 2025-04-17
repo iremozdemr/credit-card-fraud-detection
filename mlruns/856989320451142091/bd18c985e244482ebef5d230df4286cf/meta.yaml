@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/irems-pc/Desktop/codinggg/big-data/credit-card-fraud-detection/mlruns/856989320451142091/bd18c985e244482ebef5d230df4286cf/artifacts
+end_time: 1744914588825
+entry_point_name: ''
+experiment_id: '856989320451142091'
+lifecycle_stage: active
+run_id: bd18c985e244482ebef5d230df4286cf
+run_name: kindly-hen-646
+run_uuid: bd18c985e244482ebef5d230df4286cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744914561130
+status: 3
+tags: []
+user_id: irems-pc
